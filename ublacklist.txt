@@ -1134,7 +1134,6 @@ https://skillbox.ru/
 *://*.proubuntu.ru/*
 *://*.wikiroot.ru/*
 *://*.utyatnishna.ru/*
-*://*www.it-swarm-*
 *://*.legkovopros.ru/*
 *://*.askdev.ru/*
 *://*.switch-case.ru/*
@@ -1154,7 +1153,6 @@ https://skillbox.ru/
 *://*.poweruser.guru/*
 *://*.issue.life/*
 *://*.codeflow.site/*
-*://*.stackovernet.*
 *://*.coredump.biz/*
 *://*.ifelse.info/*
 *://*.newbedev.com/*
